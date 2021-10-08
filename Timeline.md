@@ -158,6 +158,9 @@ A explorer
 ### 2021.10.02 - Premiers travaux attendus
 ------------------------------------------------------------------
 
+- 2 pages max sur les références bibliographiques
+- 2 pages max sur la sélection de variables et un 1er traitement SAS sur une variable d'intérêt 
+
 ##### Note exploratoire
 * synthèse de la recherche bibliographique autour du thème 
 * 2 pages maximum articulées autour de la lecture de 5 à 10 articles 
